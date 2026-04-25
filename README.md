@@ -171,5 +171,5 @@ Visit: `http://localhost:8080/sql-query-evaluator/`
 
 ## Author
 
-**Roshan**  
+**Md. Mowla Mohiddin**  
 [GitHub](https://github.com/mohiddin0786) · [LinkedIn](https://linkedin.com/in/md-m-mohiddin)
