@@ -1,0 +1,17 @@
+# Credentials - NEVER push this
+src/main/webapp/META-INF/context.xml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+bin/
+*.class
+*.war
+*.jar
+
+# Logs
+*.log
